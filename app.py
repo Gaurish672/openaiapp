@@ -1,5 +1,7 @@
 import streamlit as st
-st.image("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Faibusiness.com%2Fnlp%2Fwhat-is-generative-ai-and-how-is-it-different-from-other-ai-&psig=AOvVaw3xv7frdMNfcfGS0FuY6erB&ust=1738444249057000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD8lKTwoIsDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
+st.image("https://github.com/Gaurish672/openaiapp/blob/main/generative_ai_logo.png", 
+         caption="Generative AI Logo", 
+         use_column_width=True)
 import requests
 import json
 import base64
