@@ -2,7 +2,7 @@ import streamlit as st
 st.image(
     "https://raw.githubusercontent.com/Gaurish672/openaiapp/main/generative_ai_logo.png", 
     caption="Generative AI Logo", 
-    use_container_width=True
+    width=300
 )
 import requests
 import json
