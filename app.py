@@ -1,7 +1,9 @@
 import streamlit as st
-st.image("https://github.com/Gaurish672/openaiapp/blob/main/generative_ai_logo.png", 
-         caption="Generative AI Logo", 
-         use_column_width=True)
+t.image(
+    "https://github.com/Gaurish672/openaiapp/blob/main/generative_ai_logo.png", 
+    caption="Generative AI Logo", 
+    use_container_width=True
+)
 import requests
 import json
 import base64
