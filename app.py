@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgoofytails.com%2Fpages%2Flabrador-retriever&psig=AOvVaw1WFHXZdBQki__5TE_i8cSd&ust=1738443875897000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiwgcTuoIsDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
+st.image("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Faibusiness.com%2Fnlp%2Fwhat-is-generative-ai-and-how-is-it-different-from-other-ai-&psig=AOvVaw3xv7frdMNfcfGS0FuY6erB&ust=1738444249057000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD8lKTwoIsDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
