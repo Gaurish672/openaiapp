@@ -1,6 +1,6 @@
 import streamlit as st
 t.image(
-    "https://github.com/Gaurish672/openaiapp/blob/main/generative_ai_logo.png", 
+    "https://raw.githubusercontent.com/Gaurish672/openaiapp/main/generative_ai_logo.png", 
     caption="Generative AI Logo", 
     use_container_width=True
 )
