@@ -1,5 +1,5 @@
 import streamlit as st
-t.image(
+st.image(
     "https://raw.githubusercontent.com/Gaurish672/openaiapp/main/generative_ai_logo.png", 
     caption="Generative AI Logo", 
     use_container_width=True
